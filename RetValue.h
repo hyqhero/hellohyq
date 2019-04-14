@@ -32,3 +32,5 @@
 #define RET_DEV_NOT_SUPPORT			-207		//设备不支持当前参数获取方式
 #define RET_GETREGDEVCOUNT_TIMEOUT	-208		//带目录的主动模式获取注册设备总数超时
 
+#define RET_GETREGDEVCOUNT_TIMEOUT	-208		//带目录的主动模式
+
